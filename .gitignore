@@ -52,6 +52,9 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
+# Exe file
+Windows/*
+
 # Starter Content
 Content/StarterContent/*
 
