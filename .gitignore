@@ -58,6 +58,9 @@ Windows/*
 # Starter Content
 Content/StarterContent/*
 
+#Cartoon Shader
+Content/CartoonWaterShader/*
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
